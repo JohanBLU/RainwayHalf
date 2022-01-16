@@ -2,7 +2,8 @@
 The reasom for this repo to be a thing is because Flarf [b]demoted[/b] me from Rainway, for no reason, so i decided to leak this.
 
 Note that Rainway still exists, but the new site is open source, and its owned by Flofy, who actually has a brain (I've never talked to him while i was co-owner, but yea)
-<a href="https://github.com/flofydev/Rainway">New site source link</a>
+<a href="https://github.com/Flofy-Dev/rainway-source">New site source link</a>
+#### This skids Lorias, don't use this shitty revival's source.
 
 # Old description
 ---
